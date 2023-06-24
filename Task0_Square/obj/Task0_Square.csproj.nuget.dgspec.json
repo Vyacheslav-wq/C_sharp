@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Training\\C#\\Task0_Square\\Task0_Square.csproj": {}
+  },
+  "projects": {
+    "F:\\Training\\C#\\Task0_Square\\Task0_Square.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\C#\\Task0_Square\\Task0_Square.csproj",
+        "projectName": "Task0_Square",
+        "projectPath": "F:\\Training\\C#\\Task0_Square\\Task0_Square.csproj",
+        "packagesPath": "C:\\Users\\Кот\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\C#\\Task0_Square\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Кот\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

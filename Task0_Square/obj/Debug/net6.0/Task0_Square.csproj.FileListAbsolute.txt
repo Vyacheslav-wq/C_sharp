@@ -1,0 +1,15 @@
+F:\Training\C#\Task0_Square\bin\Debug\net6.0\Task0_Square.exe
+F:\Training\C#\Task0_Square\bin\Debug\net6.0\Task0_Square.deps.json
+F:\Training\C#\Task0_Square\bin\Debug\net6.0\Task0_Square.runtimeconfig.json
+F:\Training\C#\Task0_Square\bin\Debug\net6.0\Task0_Square.dll
+F:\Training\C#\Task0_Square\bin\Debug\net6.0\Task0_Square.pdb
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.csproj.AssemblyReference.cache
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.AssemblyInfoInputs.cache
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.AssemblyInfo.cs
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.csproj.CoreCompileInputs.cache
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.dll
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\refint\Task0_Square.dll
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.pdb
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\Task0_Square.genruntimeconfig.cache
+F:\Training\C#\Task0_Square\obj\Debug\net6.0\ref\Task0_Square.dll

@@ -1,0 +1,15 @@
+F:\Training\C#\Task002_Weekday\bin\Debug\net6.0\Task002_Weekday.exe
+F:\Training\C#\Task002_Weekday\bin\Debug\net6.0\Task002_Weekday.deps.json
+F:\Training\C#\Task002_Weekday\bin\Debug\net6.0\Task002_Weekday.runtimeconfig.json
+F:\Training\C#\Task002_Weekday\bin\Debug\net6.0\Task002_Weekday.dll
+F:\Training\C#\Task002_Weekday\bin\Debug\net6.0\Task002_Weekday.pdb
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.csproj.AssemblyReference.cache
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.AssemblyInfoInputs.cache
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.AssemblyInfo.cs
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.csproj.CoreCompileInputs.cache
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.dll
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\refint\Task002_Weekday.dll
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.pdb
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\Task002_Weekday.genruntimeconfig.cache
+F:\Training\C#\Task002_Weekday\obj\Debug\net6.0\ref\Task002_Weekday.dll

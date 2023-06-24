@@ -1,0 +1,15 @@
+F:\Training\C#\Task004_LastNum\bin\Debug\net6.0\Task004_LastNum.exe
+F:\Training\C#\Task004_LastNum\bin\Debug\net6.0\Task004_LastNum.deps.json
+F:\Training\C#\Task004_LastNum\bin\Debug\net6.0\Task004_LastNum.runtimeconfig.json
+F:\Training\C#\Task004_LastNum\bin\Debug\net6.0\Task004_LastNum.dll
+F:\Training\C#\Task004_LastNum\bin\Debug\net6.0\Task004_LastNum.pdb
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.csproj.AssemblyReference.cache
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.AssemblyInfoInputs.cache
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.AssemblyInfo.cs
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.csproj.CoreCompileInputs.cache
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.dll
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\refint\Task004_LastNum.dll
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.pdb
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\Task004_LastNum.genruntimeconfig.cache
+F:\Training\C#\Task004_LastNum\obj\Debug\net6.0\ref\Task004_LastNum.dll

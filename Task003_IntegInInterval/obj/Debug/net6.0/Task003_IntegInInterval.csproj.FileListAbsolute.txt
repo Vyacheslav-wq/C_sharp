@@ -1,0 +1,15 @@
+F:\Training\C#\Task003_IntegInInterval\bin\Debug\net6.0\Task003_IntegInInterval.exe
+F:\Training\C#\Task003_IntegInInterval\bin\Debug\net6.0\Task003_IntegInInterval.deps.json
+F:\Training\C#\Task003_IntegInInterval\bin\Debug\net6.0\Task003_IntegInInterval.runtimeconfig.json
+F:\Training\C#\Task003_IntegInInterval\bin\Debug\net6.0\Task003_IntegInInterval.dll
+F:\Training\C#\Task003_IntegInInterval\bin\Debug\net6.0\Task003_IntegInInterval.pdb
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.csproj.AssemblyReference.cache
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.AssemblyInfoInputs.cache
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.AssemblyInfo.cs
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.csproj.CoreCompileInputs.cache
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.dll
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\refint\Task003_IntegInInterval.dll
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.pdb
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\Task003_IntegInInterval.genruntimeconfig.cache
+F:\Training\C#\Task003_IntegInInterval\obj\Debug\net6.0\ref\Task003_IntegInInterval.dll
