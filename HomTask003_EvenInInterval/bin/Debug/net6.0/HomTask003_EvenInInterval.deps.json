@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomTask003_EvenInInterval/1.0.0": {
+        "runtime": {
+          "HomTask003_EvenInInterval.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomTask003_EvenInInterval/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
