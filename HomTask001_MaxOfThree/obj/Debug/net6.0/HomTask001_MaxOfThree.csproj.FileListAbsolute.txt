@@ -1,0 +1,15 @@
+F:\Training\C#\HomTask001_MaxOfThree\bin\Debug\net6.0\HomTask001_MaxOfThree.exe
+F:\Training\C#\HomTask001_MaxOfThree\bin\Debug\net6.0\HomTask001_MaxOfThree.deps.json
+F:\Training\C#\HomTask001_MaxOfThree\bin\Debug\net6.0\HomTask001_MaxOfThree.runtimeconfig.json
+F:\Training\C#\HomTask001_MaxOfThree\bin\Debug\net6.0\HomTask001_MaxOfThree.dll
+F:\Training\C#\HomTask001_MaxOfThree\bin\Debug\net6.0\HomTask001_MaxOfThree.pdb
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.csproj.AssemblyReference.cache
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.AssemblyInfoInputs.cache
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.AssemblyInfo.cs
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.csproj.CoreCompileInputs.cache
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.dll
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\refint\HomTask001_MaxOfThree.dll
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.pdb
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\HomTask001_MaxOfThree.genruntimeconfig.cache
+F:\Training\C#\HomTask001_MaxOfThree\obj\Debug\net6.0\ref\HomTask001_MaxOfThree.dll
