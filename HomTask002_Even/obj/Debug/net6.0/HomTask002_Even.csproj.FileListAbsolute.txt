@@ -1,0 +1,15 @@
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.csproj.AssemblyReference.cache
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.AssemblyInfoInputs.cache
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.AssemblyInfo.cs
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.csproj.CoreCompileInputs.cache
+F:\Training\C#\HomTask002_Even\bin\Debug\net6.0\HomTask002_Even.exe
+F:\Training\C#\HomTask002_Even\bin\Debug\net6.0\HomTask002_Even.deps.json
+F:\Training\C#\HomTask002_Even\bin\Debug\net6.0\HomTask002_Even.runtimeconfig.json
+F:\Training\C#\HomTask002_Even\bin\Debug\net6.0\HomTask002_Even.dll
+F:\Training\C#\HomTask002_Even\bin\Debug\net6.0\HomTask002_Even.pdb
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.dll
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\refint\HomTask002_Even.dll
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.pdb
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\HomTask002_Even.genruntimeconfig.cache
+F:\Training\C#\HomTask002_Even\obj\Debug\net6.0\ref\HomTask002_Even.dll
