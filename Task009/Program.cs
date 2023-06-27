@@ -3,12 +3,12 @@
 12-> 2
 85 -> 8
 */
-int rundnum = new Random().Next(10, 100);
-Console.WriteLine($"Рандомное число: {rundnum}");
+int randnum = new Random().Next(10, 100);
+Console.WriteLine($"Рандомное число: {randnum}");
 
-int numOne= rundnum%10;
-int numTwo = rundnum / 10;
-Console.Write($"У числа: {rundnum} большая цифра ");
+int numOne= randnum%10;
+int numTwo = randnum / 10;
+Console.Write($"У числа: {randnum} большая цифра ");
 
 if (numOne > numTwo)
 {
