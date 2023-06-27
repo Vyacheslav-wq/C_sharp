@@ -8,9 +8,12 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
+Console.Clear();
+Console.WriteLine($"Вы ввели: {num1}, {num2}, (первое и второе числа.) ");
 if (num1 % num2 == 0)
 {
-    Console.WriteLine("кратно");}
+    Console.WriteLine("Кратно. (первое число кратно второму числу).");}
 else{
-    Console.WriteLine($"не кратно, остаток - {num1 % num2}");
+    Console.WriteLine("Не кратно. (первое число не кратно второму числу),");
+    Console.WriteLine($"Остаток: {num1 % num2},");
 }
