@@ -12,8 +12,10 @@ Console.Write("Введите x2 ");
 double x2 = Convert.ToInt64(Console.ReadLine());
 Console.Write("Введите y2 ");
 double y2 = Convert.ToInt64(Console.ReadLine());
-double d = Math.Sqrt(-5);
+Console.Clear();
+Console.WriteLine($"Вы ввели: точка A ({x1}, {y1}) и точка B ({x2}, {y2}),");
+// double d1 = Math.Sqrt(-4);
 
 double d = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
 
-Console.WriteLine($"d ={d}");
+Console.WriteLine($"Расстояние от А до В равно {d:f2}.");
