@@ -4,8 +4,11 @@
 2 -> 1,4
 */
 Console.Clear();
-Console.WriteLine("Введите число: ");
+Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
+Console.Clear();
+Console.WriteLine($"Вы ввели число: {n},");
+Console.WriteLine($"Таблица квадратов от 1 до {n} будет:");
 int count = 1;
 while (count <= n)
 {
