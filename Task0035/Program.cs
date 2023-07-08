@@ -18,7 +18,7 @@ int fillNumberArray(int[] array, int start, int end)
 }
 int[] getRandomArray(int length, int deviation)
 {
-    Console.ForegroundColor = ConsoleColor.Green;
+    Console.ForegroundColor = ConsoleColor.Magenta;
     int[] result = new int[length];
     for (int i = 0; i < length; i++)
     {
@@ -29,7 +29,7 @@ int[] getRandomArray(int length, int deviation)
 void printArray(int[] arrayToPrint)
 {
 
-    Console.ForegroundColor = ConsoleColor.Green;
+    Console.ForegroundColor = ConsoleColor.Magenta;
     Console.Write("[");
     for (int i = 0; i < arrayToPrint.Length; i++)
     {
