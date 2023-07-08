@@ -30,7 +30,8 @@ void printArray(int[] arrayToPrint)
 }
 int sumElementsOfArray(int[] arrayToCalculate, int multiply)
 {
-    int result = 0; for (int i = 0; i < arrayToCalculate.Length; i++)
+    int result = 0; 
+    for (int i = 0; i < arrayToCalculate.Length; i++)
     {
         if (arrayToCalculate[i] * multiply > 0)
         {
@@ -40,7 +41,8 @@ int sumElementsOfArray(int[] arrayToCalculate, int multiply)
     return result;
 }
 int[] randomArray = getRandomArray(12, 9);
-printArray(randomArray); Console.WriteLine();
+printArray(randomArray); 
+Console.WriteLine();
 int positiveSumOfArray = sumElementsOfArray(randomArray, 1);
 int negativeSumOfArray = sumElementsOfArray(randomArray, -1);
 Console.WriteLine($"Сумма положительных чисел в массиве равна {positiveSumOfArray}, сумма отрицательных чисел в массиве равна {negativeSumOfArray}");
